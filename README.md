@@ -2,8 +2,6 @@
 
 I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the Software Engineering (RPL) program. I am driven by a significant interest in becoming a Frontend Developer. My journey involves delving into web technologies, exploring interface design, and focusing on creating engaging user experiences.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
