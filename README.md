@@ -8,7 +8,7 @@ I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the So
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,vue,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,&perline=3)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
