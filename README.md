@@ -6,9 +6,6 @@ I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the So
 
 - 🔭 I'm a student at SMKN 4 Bogor
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue.js)](https://skillicons.dev)
