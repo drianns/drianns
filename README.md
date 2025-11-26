@@ -1,4 +1,4 @@
-# Hi, I'm <ADRIAN MAULANA>! 👋
+# Hi, I'm ADRIAN MAULANA! 👋
 
 I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the Software Engineering (RPL) program. I am driven by a significant interest in becoming a Frontend Developer. My journey involves delving into web technologies, exploring interface design, and focusing on creating engaging user experiences.
 
@@ -16,7 +16,7 @@ I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the So
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue.js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
