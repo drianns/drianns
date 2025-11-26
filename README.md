@@ -21,7 +21,7 @@ I am Adrian Maulana, a student at SMKN 4 Bogor, currently specializing in the So
 
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram]([https://twitter.com/introvertedbot](https://www.instagram.com/adrmlnna?igsh=MWIyY3lqaDBid3kwZg==))
+- Connect with me on [Instagram](https://www.instagram.com/adrmlnna?igsh=MWIyY3lqaDBid3kwZg==)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
